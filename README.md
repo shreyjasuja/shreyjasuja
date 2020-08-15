@@ -4,7 +4,6 @@
 
 I am Shrey 👨‍💻
 
----
 - 👨‍🎓 Senior, Computer Science Student @ IIIT Nagpur
 - 🔭 I’m currently working on Natural Language Processing @ TRDDC
 - 🌱 I’m currently learning about Instance Segmentation in Images
