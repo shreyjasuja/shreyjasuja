@@ -10,4 +10,4 @@ I am Shrey 👨‍💻
 - 🌱 I’m currently learning about instance segmentation in images
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-jasuja/)](https://www.linkedin.com/in/shrey-jasuja/)
 - 💙 Really into Deep Learning
-- ⚡ Fun fact: 
+- ⚡ Codes in Python
