@@ -1,8 +1,10 @@
-<img align="center" width="600" height="450" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" width="600" height="450" src="https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-# Hi there 👋
+## Hi there 👋
 
 I am Shrey 👨‍💻
+
+---
 
 - 🔭 I’m currently working on Natural Language Processing ...
 - 🌱 I’m currently learning ...
