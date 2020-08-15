@@ -5,9 +5,9 @@
 I am Shrey 👨‍💻
 
 ---
-- 🎓 Senior Computer Science Student @ IIIT Nagpur
+- 👨‍🎓 Senior, Computer Science Student @ IIIT Nagpur
 - 🔭 I’m currently working on Natural Language Processing @ TRDDC
-- 🌱 I’m currently learning about instance segmentation in images
+- 🌱 I’m currently learning about Instance Segmentation in Images
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-jasuja/)](https://www.linkedin.com/in/shrey-jasuja/)
 - 💙 Really into Deep Learning
 - ⚡ Codes in Python
