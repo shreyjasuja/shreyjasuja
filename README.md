@@ -4,8 +4,8 @@
 
 I am Shrey 👨‍💻
 
-- 🔭 I’m currently working as Machine Learning Engineer @ Rubick.AI, TextMercato
-- 👨‍🎓 B.Tech CSE, @ IIIT Nagpur
+- 🔭 Currently Learning
+- 👨‍🎓 MS in Computer Engineering, NYU
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-jasuja/)](https://www.linkedin.com/in/shrey-jasuja/)
 - 💙 Really into Deep Learning
 - ⚡ Codes in Python
