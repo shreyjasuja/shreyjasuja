@@ -4,7 +4,7 @@
 
 I am Shrey 👨‍💻
 
-- 🔭 Currently Learning
+- 🔭 Active seeking full-time opportunities
 - 👨‍🎓 MS in Computer Engineering, NYU
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-jasuja/)](https://www.linkedin.com/in/shrey-jasuja/)
 - 💙 Really into Deep Learning
